@@ -1,7 +1,7 @@
 {
   "name": "inmuebles-wb",
   "version": "1.0.0",
-  "description": "Proyecto de inmuebles con webpack y babel.",
+  "description": "Proyecto de inmuebles con webpack y babel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/nicoarbe/Inmuebles-wb.git"
   },
-  "author": "Nicolas Arbelaez",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/nicoarbe/Inmuebles-wb/issues"
   },
